@@ -20,13 +20,13 @@ We will have to excepect somethin like this as output
 
 Number: 4
 
-Player Bet   Outcome   Winnings
+Player Bet   Outcome   Winnings  
 
 Tiki_Monkey 2     LOSE      0.0
+
 Barbara EVEN      WIN       6.0
 
 
-########################################
 How to run it?
 
 Once in the folder called Part2, you follow the command lines below since we have diffrentes folders in which we have the txt file and the main file as well,
