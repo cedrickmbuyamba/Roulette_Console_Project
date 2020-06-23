@@ -19,10 +19,11 @@ The game should print to the console the number and for each bet - the player's 
 We will have to excepect somethin like this as output
 
 Number: 4
-Player Bet Outcome Winnings
+
+Player      Bet   Outcome   Winnings
 ---
-Tiki_Monkey 2 LOSE 0.0
-Barbara EVEN  WIN  6.0
+Tiki_Monkey 2     LOSE      0.0
+Barbara EVEN      WIN       6.0
 
 
 ########################################
