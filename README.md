@@ -1,4 +1,4 @@
-# Roulette_Console_Project
+# Roulette_Console_Project_Part2
 
 Roulette is a popular casino game. The aim of the exercise is to create a simple command line multiplayer version of the game.
 On start-up, load a file which contains a list of player's names, For my case I did create a file named "file.txt" which contains two names of two players,the txt file is commited as well.
